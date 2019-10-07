@@ -1,0 +1,7 @@
+﻿  Field.cpp
+c:\users\kjgalr\documents\visual studio 2017\projects\kuli_huepf\kuli_huepf\field.cpp(116): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\kjgalr\documents\visual studio 2017\projects\kuli_huepf\kuli_huepf\field.cpp(296): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\kjgalr\documents\visual studio 2017\projects\kuli_huepf\kuli_huepf\field.cpp(325): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+c:\users\kjgalr\documents\visual studio 2017\projects\kuli_huepf\kuli_huepf\field.cpp(336): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  Kuli_Huepf.vcxproj -> C:\Users\KJGALR\Documents\Visual Studio 2017\Projects\Kuli_Huepf\x64\Debug\Kuli_Huepf.exe
+  Kuli_Huepf.vcxproj -> C:\Users\KJGALR\Documents\Visual Studio 2017\Projects\Kuli_Huepf\x64\Debug\Kuli_Huepf.pdb (Partial PDB)
